@@ -8,7 +8,7 @@ export const PUZZLE: PuzzleData = {
   rows: [
     { label: "Sur la ligne 1", id: "r1" },
     { label: "Nom commençant par 'S'", id: "r2" },
-    { label: "Plus de 3 correspondances", id: "r3" },
+    { label: "Plus belle poubelle du monde", id: "r3" },
   ],
   cols: [
     { label: "Dans le 1er arrondissement", id: "c1" },
