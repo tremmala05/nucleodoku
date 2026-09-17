@@ -6,7 +6,7 @@ export interface PuzzleData {
 
 export const PUZZLE: PuzzleData = {
   rows: [
-    { label: "Sur la ligne 1", id: "r1" },
+    { label: "A dit NON", id: "r1" },
     { label: "Nom commençant par 'S'", id: "r2" },
     { label: "Plus belle poubelle du monde", id: "r3" },
   ],
