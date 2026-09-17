@@ -60,8 +60,8 @@ const reset = () => {
   <div class="min-h-screen bg-slate-50 text-slate-900 p-4 md:p-8 font-sans">
     <div class="max-w-4xl mx-auto">
       <header class="text-center mb-8">
-        <h1 class="text-4xl font-extrabold text-slate-800 mb-2">Métrodoku</h1>
-        <p class="text-slate-600">Trouvez les stations qui correspondent aux critères.</p>
+        <h1 class="text-4xl font-extrabold text-slate-800 mb-2">Nucléodoku</h1>
+        <p class="text-slate-600">Pros du nucléaire, faites exploser votre culture G</p>
       </header>
 
       <div class="overflow-x-auto">
