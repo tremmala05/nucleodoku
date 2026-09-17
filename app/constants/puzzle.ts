@@ -11,10 +11,10 @@ export const PUZZLE: PuzzleData = {
     { label: "Plus belle poubelle du monde", id: "r3" },
   ],
   cols: [
-    { label: "Dans le 1er arrondissement", id: "c1" },
-    { label: "Station avec 'Saint' dans le nom", id: "c2" },
-    { label: "Station proche d'un musée", id: "c3" },
-  ],
+  { label: "A dit STOP", id: "c1" },
+  { label: "Plus de 50% du mix électrique (grosso modo)", id: "c2" },
+  { label: "Top 10 en production absolue", id: "c3" },
+],
   solutions: {
     "r1-c1": ["Louvre-Rivoli", "Châtelet"],
     "r1-c2": ["Saint-Paul"],
