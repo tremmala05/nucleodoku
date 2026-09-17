@@ -19,14 +19,14 @@ export const PUZZLE: PuzzleData = {
   ],
   // TODO: remplacer ces placeholders (hérités du thème métro) par les vraies réponses nucléaire
   solutions: {
-    "r1-c1": "Louvre-Rivoli",
-    "r1-c2": "Saint-Paul",
-    "r1-c3": "Tuileries",
-    "r2-c1": "Saint-Maurice",
-    "r2-c2": "Saint-Lazare",
-    "r2-c3": "Saint-Germain-des-Prés",
-    "r3-c1": "Châtelet",
-    "r3-c2": "Saint-Denis",
-    "r3-c3": "Gare de Lyon",
+    "r1-c1": "Italie",
+    "r1-c2": "Slovaquie",
+    "r1-c3": "Chine",
+    "r2-c1": "Belgique",
+    "r2-c2": "Hongrie",
+    "r2-c3": "Corée du Sud",
+    "r3-c1": "Suisse",
+    "r3-c2": "France",
+    "r3-c3": "Canada",
   }
 };
