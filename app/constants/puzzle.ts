@@ -6,9 +6,9 @@ export interface PuzzleData {
 
 export const PUZZLE: PuzzleData = {
   rows: [
-    { label: "A dit NON", id: "r1" },
-    { label: "Nom commençant par 'S'", id: "r2" },
-    { label: "Plus belle poubelle du monde", id: "r3" },
+    { label: "N'a pas participé à la dernière Coupe du monde de Foot", id: "r1" },
+    { label: "Aime le rouge", id: "r2" },
+    { label: "Céline Dion s'y plairait", id: "r3" },
   ],
   cols: [
   { label: "A dit STOP", id: "c1" },
